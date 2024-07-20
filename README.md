@@ -39,13 +39,13 @@ confesso que o resultado praticamente perfeito me assustou, e pensar que ainda e
 
 ### Projeto
 
-- [SITE](/https://gamma.app/docs/Introducao-a-seguranca-da-informacao-15t3vag0846p2ao?mode=doc)
-- [Link-PDF](/https://acrobat.adobe.com/id/urn:aaid:sc:US:8af5e439-d1d1-4fa6-a5bd-e2e9c948e72e)
+- [SITE]([/https://gamma.app/docs/Introducao-a-seguranca-da-informacao-15t3vag0846p2ao?mode=doc])
+- [Link-PDF]([/https://acrobat.adobe.com/id/urn:aaid:sc:US:8af5e439-d1d1-4fa6-a5bd-e2e9c948e72e])
   
 
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://gamma.app/docs/Introducao-a-seguranca-da-informacao-15t3vag0846p2ao?mode=doc)
+[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical]([https://gamma.app/docs/Introducao-a-seguranca-da-informacao-15t3vag0846p2ao/preview])
 
 ![Base10's Trend Map Generative AI](https://gamma.app/docs/Introducao-a-seguranca-da-informacao-15t3vag0846p2ao?mode=doc)
