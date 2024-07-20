@@ -1,7 +1,8 @@
 # A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
-Este projeto do desafio proposto pela DIO(Digital innovation one) criado com o **[GAMMA](https://gamma.app/)** ,destaca a importância da segurança da informação e seus pilares mais importantes, e seus fundamentos.
+Este projeto do desafio proposto pela DIO(Digital innovation one) criado com o **[GAMMA](https://gamma.app/)** ,destaca a importância das IAS para criação e produtiva e também com o auxilio dela foi possível
+adquirir conhecimentos sobre segurança da informação e seus pilares mais importantes, e seus fundamentos.
 Com o auxilio da IA Generativa Gamma, abordou conceitos essenciais como confidencialidade, integridade e disponibilidade das informações.
 
 ## 🤖 Tecnologias Utilizadas
