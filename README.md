@@ -22,7 +22,7 @@ O gamma me surpreendeu pois ele além de criar um projeto completo de acordo com
 confesso que o resultado praticamente perfeito me assustou, e pensar que ainda estamos no inicio da evolução das IAS.
 
 
-| ![Captura de tela 2024-07-20 170201](https://github.com/user-attachments/assets/82f7a138-b1ed-4738-823e-c2a02eb9838a)
+![Captura de tela 2024-07-20 170201](https://github.com/user-attachments/assets/82f7a138-b1ed-4738-823e-c2a02eb9838a)
 ![Captura de tela 2024-07-20 170241](https://github.com/user-attachments/assets/48803d2a-884c-4821-83cb-a4d5aae523b2) 
 ![Captura de tela 2024-07-20 170349](https://github.com/user-attachments/assets/7090844d-6d1d-421f-bab5-50d00901b99d) 
 ![Captura de tela 2024-07-20 170408](https://github.com/user-attachments/assets/cb3d5c1a-208e-4867-8ba7-d3518361ebbe) 
