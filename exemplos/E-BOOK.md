@@ -1,20 +1,22 @@
 # A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+ste projeto destaca a importância da segurança da informação e seus pilares mais importantes e os fundamentos básicos.
+foi realizado com o uso de IA Generativa Gamma, abordando conceitos essenciais como confidencialidade, integridade e disponibilidade das informações.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[GAMMA](https://gamma.app/)** para criação geral do design, texto e layout;
+
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+A ia é super completa, é necessário utilizar um bom prompt para que ela detalhe perfeitamente o que você pediu.
+Utilizando engenharia de prompt e conhecendo seus fundamentos básicos fica bem mais fácil.
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK/Site AQUI]()
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+O gamma me surpreendeu pois ele além de criar um projeto completo de acordo com inteligência de prompt ele permite criar um "site-exemplo" do seu projeto,
+confesso que o resultado praticamente perfeito me assustou, e pensar que ainda estamos no inicio da evolução das IAS.
