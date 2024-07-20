@@ -2,20 +2,16 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+> Woooow! Look at him 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá, Emerson aqui nesse novo projet da DIO sobre IA GENERATIVA em parceria com a Microsoft! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab/Desafio da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Vamo Pro Desafio!? Lets go 💪🤓
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+1. **Explorar IAs Generativas**: Utilizei a IA GAMMA para criar um conteúdo estilo ebook, e também semelhante a um manual de instrução roadmap em formato textual que seja o mais realista possível.
+2.  Redes: [DIO]([(https://www.dio.me/users/emersondirectx)]) e [Linkedin](https://www.linkedin.com/in/emerson-neves-ciber/).
 
 ### Template
 
@@ -23,29 +19,32 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto destaca a importância da segurança da informação e seus pilares mais importantes e os fundamentos básicos.
+foi realizado com o uso de IA Generativa Gamma, abordando conceitos essenciais como confidencialidade, integridade e disponibilidade das informações.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- GAMMA [IA GENERATIVA]
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A ia é super completa, é necessário utilizar um bom prompt para que ela detalhe perfeitamente o que você pediu. Utilizando engenharia de prompt e conhecendo seus fundamentos básicos fica bem mais fácil.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O gamma me surpreendeu pois ele além de criar um projeto completo de acordo com inteligência de prompt ele permite criar um "site-exemplo" do seu projeto, confesso que o resultado praticamente perfeito me assustou, e pensar que ainda estamos no inicio da evolução
+das IAS.
 ```
 
-### Exemplos e Insigths
+### Projeto
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [SITE](/https://gamma.app/docs/Introducao-a-seguranca-da-informacao-15t3vag0846p2ao?mode=doc)
+- [Link-PDF](/https://acrobat.adobe.com/id/urn:aaid:sc:US:8af5e439-d1d1-4fa6-a5bd-e2e9c948e72e)
+  
+
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://gamma.app/docs/Introducao-a-seguranca-da-informacao-15t3vag0846p2ao?mode=doc)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
