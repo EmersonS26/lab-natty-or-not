@@ -48,4 +48,4 @@ confesso que o resultado praticamente perfeito me assustou, e pensar que ainda e
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical]([https://gamma.app/docs/Introducao-a-seguranca-da-informacao-15t3vag0846p2ao/preview])
 
-![Base10's Trend Map Generative AI](https://gamma.app/docs/Introducao-a-seguranca-da-informacao-15t3vag0846p2ao?mode=doc)
+![Base10's Trend Map Generative AI](https://introducao-a-seguranca-d-rtbbx3m.gamma.site/)
