@@ -39,7 +39,7 @@ confesso que o resultado praticamente perfeito me assustou, e pensar que ainda e
 
 ### Projeto
 
-- [SITE]([/https://gamma.app/docs/Introducao-a-seguranca-da-informacao-15t3vag0846p2ao?mode=doc])
+- [SITE](/https://introducao-a-seguranca-d-rtbbx3m.gamma.site/)
 - [Link-PDF]([/https://acrobat.adobe.com/id/urn:aaid:sc:US:8af5e439-d1d1-4fa6-a5bd-e2e9c948e72e])
   
 
