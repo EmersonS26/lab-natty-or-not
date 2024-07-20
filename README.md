@@ -4,7 +4,7 @@
 
 > Woooow! Look at him 👀
 
-Olá, Emerson aqui nesse novo projet da DIO sobre IA GENERATIVA em parceria com a Microsoft! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab/Desafio da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá, Emerson aqui, nesse novo projet da DIO sobre IA GENERATIVA em parceria com a Microsoft! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab/Desafio da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Vamo Pro Desafio!? Lets go 💪🤓
 
@@ -26,14 +26,15 @@ foi realizado com o uso de IA Generativa Gamma, abordando conceitos essenciais c
 - GAMMA [IA GENERATIVA]
 
 ## 🧐 Processo de Criação
-A ia é super completa, é necessário utilizar um bom prompt para que ela detalhe perfeitamente o que você pediu. Utilizando engenharia de prompt e conhecendo seus fundamentos básicos fica bem mais fácil.
+A ia é super completa, é necessário utilizar um bom prompt para que ela detalhe perfeitamente o que você pediu.
+Utilizando engenharia de prompt e conhecendo seus fundamentos básicos fica bem mais fácil.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-O gamma me surpreendeu pois ele além de criar um projeto completo de acordo com inteligência de prompt ele permite criar um "site-exemplo" do seu projeto, confesso que o resultado praticamente perfeito me assustou, e pensar que ainda estamos no inicio da evolução
-das IAS.
+O gamma me surpreendeu pois ele além de criar um projeto completo de acordo com inteligência de prompt ele permite criar um "site-exemplo" do seu projeto,
+confesso que o resultado praticamente perfeito me assustou, e pensar que ainda estamos no inicio da evolução das IAS.
 ```
 
 ### Projeto
